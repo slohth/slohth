@@ -8,6 +8,7 @@ I'm a JVM developer from the United Kingdom interested in developing Minecraft p
 - [blockwarsmc](https://github.com/BlockWarsMC) - one of the largest events in the Minecraft space, hosting Twitch Rivals 2024 & 2025
 - [flytegg/twilight](https://github.com/flytegg/twilight) - utility api for Paper plugin development
 - [youtube/slohth](https://youtube.com/slohth) - plugin development tutorials freely available
+- [learnspigot](https://github.com/learnspigot) - the largest online plugin development course
 
 ### 📰 Recent tutorials
 - [Server-side NPCs without NMS](https://youtu.be/vU5sVWkU1Qw)
