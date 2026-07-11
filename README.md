@@ -5,7 +5,7 @@
 I'm a JVM developer from the United Kingdom interested in developing Minecraft plugins and mods. I'm naturally curious and enthusiastic about my work - check it out!
 
 ### 👷 What I'm currently working on
-- [blockwarsmc](https://github.com/BlockWarsMC) - one of the largest events in the Minecraft space, hosting Twitch Rivals 2024 & 2025
+- [blockwarsmc](https://github.com/BlockWarsMC) - one of the largest events in the Minecraft space, hosting Twitch Rivals 2024, 25 and 26!
 - [flytegg/twilight](https://github.com/flytegg/twilight) - utility api for Paper plugin development
 - [youtube/slohth](https://youtube.com/slohth) - plugin development tutorials freely available
 - [learnspigot](https://github.com/learnspigot) - the largest online plugin development course
